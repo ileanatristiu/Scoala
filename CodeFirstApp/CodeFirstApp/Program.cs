@@ -29,7 +29,7 @@ namespace CodeFirstApp
             
 
             context.DisplayStudents();
-            //context.DisplayCourses();
+            context.DisplayCourses();
 
             Console.ReadLine();
         }
